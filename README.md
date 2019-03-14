@@ -986,4 +986,3 @@ case MotionEvent.ACTION_DOWN:
 
 ### []()Github地址：https://github.com/HpWens/MCropImageView 欢迎Star
 ### []()炫酷控件集：https://github.com/HpWens/MeiWidgetView 欢迎Star
-
